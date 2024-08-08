@@ -1,13 +1,15 @@
 # Hi there 👋
 
-I'm **Lê Tuấn Anh**, a Back-End Developer. I focus on building efficient and scalable systems. 
+I'm **Lê Tuấn Anh**.
+
+![Back-End Developer](https://verpex.com/assets/uploads/images/blog/How-to-become-a-Backend-Developer.jpg?v=1665484477)
 
 ## Tech
-- **Back-End Development**
-- **API Development**
-- **Cloud Services**
-- **Database Management**
-- **C#**
-- **Java**
+- Back-End
+- API
+- Cloud
+- Database
+- C#
+- Java
 
-Feel free to explore my work and reach out if you'd like to connect!
+Feel free to connect!
